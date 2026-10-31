@@ -8,7 +8,7 @@ package sa6.tresenraya;
  *
  * @author batoi
  */
-public class SA6TresEnRaya {
+public class SA6TicTacToe {
 
     /**
      * @param args the command line arguments
@@ -16,5 +16,5 @@ public class SA6TresEnRaya {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
 }
